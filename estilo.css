@@ -160,7 +160,7 @@
     top:10px;
 }
 
-.secao-informaçoes h1{
+.secao-informaçoes h2{
     font-size:34px;
     text-align: center;
     position:absolute;
@@ -196,7 +196,7 @@
     top:250px;
  }
 
- .container-info h2{
+ .container-info h3{
     font-size:24px;
     text-align: center;
     position:absolute;
@@ -245,8 +245,9 @@
     background-color:#ba0c3d72;
  }
 
- .secao-tabela h1{
+ .secao-tabela h2{
     text-align:center;
+    font-size:32px;
     position:absolute;
     left: 230px;
     top:50px;
@@ -288,7 +289,7 @@
     position:relative;
  }
 
- .secao-anuncio-bis h1{
+ .secao-anuncio-bis h2{
     font-size:26px;
     color:#fff;
     margin: 30px 100px;
@@ -335,14 +336,14 @@
     margin: 10px auto;
 }
 
-.subcontainer-logo-rodape h1{
+.subcontainer-logo-rodape h2{
     font-size:32px;
     position:absolute;
     top:50px;
     left:120px
 }
 
-.subcontainer-logo-rodape h2{
+.subcontainer-logo-rodape h3{
     font-size:18px;
     color: #2f86d6;
     position:absolute;
@@ -406,7 +407,7 @@
     top:30px;
 }
 
-.subcontainer-icone h1{
+.subcontainer-icone h2{
     font-size:30px;
     position:absolute;
     top:30px;
@@ -519,7 +520,7 @@
    top:40px;
 }
 
-.segundo-rodape h1{
+.segundo-rodape h2{
     position:absolute;
     top:50px;
     left:120px;
@@ -565,4 +566,5 @@
 .rodape-inferior p{
     font-weight:600;
     margin:30px auto;
+
 }
