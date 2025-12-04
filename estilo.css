@@ -334,6 +334,9 @@
     height:150px;
     position:relative;
     margin: 10px auto;
+    position:absolute;
+    top:0;
+    left:560px;
 }
 
 .subcontainer-logo-rodape h2{
@@ -356,6 +359,10 @@
     height:190px;
     margin:20px auto;
     padding: 10px;
+    box-sizing:border-box;
+    position:absolute;
+    left:300px;
+    bottom:0;
 }
 
 .contato-rodape p{
@@ -568,3 +575,4 @@
     margin:30px auto;
 
 }
+
